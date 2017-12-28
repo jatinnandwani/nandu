@@ -1,0 +1,18 @@
+
+#theForm{
+	color:black;
+	display: table;
+	padding:100px;
+	background-color:lightblue;
+	border:solid 2px black;
+	margin:auto;
+	
+}
+.row{
+	display: table-row;
+}
+.row label{
+	display: table-cell;
+	padding:5px;
+
+}
